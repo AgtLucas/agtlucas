@@ -8,10 +8,6 @@
 
 I'm Lucas da Silva, a coder by day and a painter by night.
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=agtlucas&include_all_commits=true&show_icons=true" alt>
-
-
-
 <!--
 **AgtLucas/agtlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
