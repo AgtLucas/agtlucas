@@ -6,7 +6,7 @@
 
 ---
 
-I'm Lucas da Silva, a Technical Writer by day, and a painter by night (sometimes by the morning as well).
+I'm Lucas da Silva, a Frontend Developer by day, and a painter by night (sometimes by the morning as well).
 
 <!--
 **AgtLucas/agtlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
