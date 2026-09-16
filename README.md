@@ -1,8 +1,8 @@
 ### Hello, world!
 
-[![My art - lucas.art](https://img.shields.io/static/v1?label=My%20art%20-%20lucas.art&message=%20&color=blue&style=flat-square&logoColor=white)](https://lucas.art/)
-[![My blog - agtlucas.com](https://img.shields.io/static/v1?label=My%20Blog%20-%20agtlucas.com&message=%20&color=blue&style=flat-square&logoColor=white)](https://agtlucas.com/)
+[![My blog - lucasds.dev](https://img.shields.io/static/v1?label=My%20Blog%20-%20lucasds.dev&message=%20&color=blue&style=flat-square&logoColor=white)](https://lucasds.dev/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/agtlucas)
+[![My art - lucas.art](https://img.shields.io/static/v1?label=My%20art%20-%20lucas.art&message=%20&color=blue&style=flat-square&logoColor=white)](https://lucas.art/)
 
 ---
 
